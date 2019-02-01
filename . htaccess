@@ -1,0 +1,6 @@
+AuthName "Restricted Area"
+AuthType Basic
+AuthUserFile /home/hosting/public_html/.htpasswd
+AuthGroupFile /dev/null
+require valid-user
+king73lin:$apr1$Oy2OsSQH$BxOssuOqUPbVRJlGKkbiu/
